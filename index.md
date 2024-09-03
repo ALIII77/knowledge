@@ -3,13 +3,13 @@
 layout: home
 
 hero:
-  name: "Knowledge"
-  text: "java knowledge"
+  name: "Java knowledge"
+  # text: "knowledge"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get started
+      link: /pages/get-started
     - theme: alt
       text: API Examples
       link: /api-examples
